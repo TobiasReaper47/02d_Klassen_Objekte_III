@@ -40,7 +40,7 @@ public class Cat {
      
     private String checkCompliance(){
 
-        counter = 3;
+        counter++;
 
         switch (counter) {
             case 1: 
